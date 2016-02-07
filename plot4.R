@@ -20,6 +20,7 @@ legend(
     lty = c(1, 1, 1),
     col = c("black", "red", "blue"),
     bty = "n",
+    inset = 0.05,
 )
 # Plot Global Reactive Power Over Time
 plot(
